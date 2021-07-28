@@ -1,0 +1,27 @@
+/*wap for rectangle object
+  rectangle states are length and width
+  rectnagle behavoiur print rectangle dimensions.create main method,create 3 rectangle objects and
+  print dimensions*/
+
+
+class Rectangle
+{
+	public int length;
+	public int width;
+	public void dimensions()
+	{
+		System.out.println(length);
+			System.out.println(width);
+
+  public static void main(String[] args) 
+	{
+		rectangualr r1=new Rectangular();
+		r1.length=100;
+		r1.brath=10;
+		r1.dimensions();
+		Rectangular r2=new Rectangular();
+		
+	
+
+	}
+}

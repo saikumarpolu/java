@@ -1,0 +1,16 @@
+//constructor
+
+class Sample 
+{
+	public sample()
+	{
+		System.out.println("inside sample class constructor...");
+	}
+	public static void main(String[]args)
+	{
+		sample s1=new sample();
+		sample s2=new sample();
+		sample s3=new sample();
+	}
+}
+	

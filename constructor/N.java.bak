@@ -1,0 +1,8 @@
+class N extends M 
+{
+	public int =j
+	{
+		System.out.println(i);
+		System.out.println(j);
+	}
+}

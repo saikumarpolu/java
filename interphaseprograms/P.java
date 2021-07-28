@@ -1,0 +1,4 @@
+interface P
+{
+	void test()
+}
